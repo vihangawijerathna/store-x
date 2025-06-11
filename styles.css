@@ -39,7 +39,7 @@ h2 {
   font-weight: 500;
 }
 
-#product-list {
+#products-list {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 15px;
