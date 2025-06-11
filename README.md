@@ -2,7 +2,7 @@
 
 A modern e-commerce product showcase built with vanilla JavaScript, CSS, and HTML, demonstrating API integration skills.
 
-![Store-X Screenshot](assests/screenshot.png)
+![Store-X Screenshot](/assets/screenshot.png)
 
 ## Overview
 
@@ -26,23 +26,26 @@ Store-X is a front-end web application that connects to the [Fake Store API](htt
 ## Installation and Setup
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/YOUR_USERNAME/store-x.git
    ```
 
 2. Navigate to the project directory:
+
    ```bash
    cd store-x
    ```
 
 3. Open `index.html` in your browser, or use a local server:
+
    ```bash
    # Using Python 3
    python -m http.server 8000
-   
+
    # Using Node.js (if you have http-server installed)
    npx http-server
-   
+
    # Using Live Server extension in VS Code
    # Right-click on index.html and select "Open with Live Server"
    ```
@@ -63,6 +66,7 @@ store-x/
 ## API Integration
 
 This project uses the [Fake Store API](https://fakestoreapi.com/) which provides:
+
 - Product listings with images, titles, prices, and descriptions
 - No authentication required
 - RESTful endpoints for easy integration
@@ -80,6 +84,7 @@ This project uses the [Fake Store API](https://fakestoreapi.com/) which provides
 ## Learning Outcomes
 
 Through this project, I've demonstrated:
+
 - Working with asynchronous JavaScript (async/await)
 - Handling API responses and error states
 - Creating responsive layouts with CSS Grid
@@ -109,4 +114,4 @@ Through this project, I've demonstrated:
 
 ---
 
-*Built with ❤️ using vanilla web technologies*
+_Built with ❤️ using vanilla web technologies_
