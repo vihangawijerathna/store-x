@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
       productImage.src = product.image;
       productImage.alt = product.title;
 
-      const productTitle = document.createElement("h3"); // Changed from h2 to h3 to match your CSS
+      const productTitle = document.createElement("h3");
       productTitle.textContent = product.title;
 
       const productPrice = document.createElement("p");
